@@ -20,4 +20,4 @@ This project consists of 2 parts:
 
 For the code breakdown, please refer to the [code snippet breakdown included within this github](https://github.com/NathanYBFan/COSC-3P99-REVEREX-DX-Menus).
 
-For an overview of the project, please refer to the [report included within this github](https://github.com/NathanYBFan/COSC-3P99-REVEREX-DX-Menus).
+For an overview of the project, please refer to the [report included within this github](https://github.com/NathanYBFan/COSC-3P99-REVEREX-DX-Menus/blob/main/REVEREX_DX_Menu_Functionality_NathanFan.pdf).
